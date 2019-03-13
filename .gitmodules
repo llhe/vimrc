@@ -1,0 +1,27 @@
+[submodule "vim/bundle/vim-opencl"]
+	path = vim/bundle/vim-opencl
+	url = https://github.com/petRUShka/vim-opencl.git
+[submodule "vim/bundle/vim-maktaba"]
+	path = vim/bundle/vim-maktaba
+	url = https://github.com/google/vim-maktaba.git
+[submodule "vim/bundle/vim-ft-bzl"]
+	path = vim/bundle/vim-ft-bzl
+	url = https://github.com/bazelbuild/vim-ft-bzl.git
+[submodule "vim/bundle/vim-commentary"]
+	path = vim/bundle/vim-commentary
+	url = https://github.com/tpope/vim-commentary.git
+[submodule "vim/bundle/vim-colors-solarized"]
+	path = vim/bundle/vim-colors-solarized
+	url = https://github.com/altercation/vim-colors-solarized.git
+[submodule "vim/bundle/vim-codefmt"]
+	path = vim/bundle/vim-codefmt
+	url = https://github.com/google/vim-codefmt.git
+[submodule "vim/bundle/vim-airline"]
+	path = vim/bundle/vim-airline
+	url = https://github.com/vim-airline/vim-airline.git
+[submodule "vim/bundle/syntastic"]
+	path = vim/bundle/syntastic
+	url = https://github.com/vim-syntastic/syntastic.git
+[submodule "vim/bundle/nerdtree"]
+	path = vim/bundle/nerdtree
+	url = https://github.com/scrooloose/nerdtree.git
