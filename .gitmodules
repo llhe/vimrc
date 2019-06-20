@@ -28,3 +28,6 @@
 [submodule "vim/bundle/vim-cmake-syntax"]
 	path = vim/bundle/vim-cmake-syntax
 	url = git://github.com/pboettch/vim-cmake-syntax.git
+[submodule "vim/bundle/rust.vim"]
+	path = vim/bundle/rust.vim
+	url = https://github.com/rust-lang/rust.vim.git
