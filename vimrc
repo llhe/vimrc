@@ -30,7 +30,7 @@ set laststatus=2
 " Automatic Google coding style
 " :FormatCode for manual formatting
 augroup autoformat_settings
-  autocmd FileType bzl AutoFormatBuffer buildifier
+  autocmd FileType bzl,BUILD AutoFormatBuffer buildifier
   autocmd FileType c,cpp,proto,javascript ClangFormatAutoEnable
   " autocmd FileType c,cpp,proto,javascript AutoFormatBuffer clang-format
   autocmd FileType dart AutoFormatBuffer dartfmt
